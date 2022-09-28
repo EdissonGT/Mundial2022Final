@@ -1,0 +1,36 @@
+C:\Users\Andres\Desktop\Base de Datos\ProyectoMundial\BaseMundial\BaseMundial\bin\Debug\BaseMundial.exe.config
+C:\Users\Andres\Desktop\Base de Datos\ProyectoMundial\BaseMundial\BaseMundial\bin\Debug\BaseMundial.exe
+C:\Users\Andres\Desktop\Base de Datos\ProyectoMundial\BaseMundial\BaseMundial\bin\Debug\BaseMundial.pdb
+C:\Users\Andres\Desktop\Base de Datos\ProyectoMundial\BaseMundial\BaseMundial\obj\Debug\BaseMundial.csproj.AssemblyReference.cache
+C:\Users\Andres\Desktop\Base de Datos\ProyectoMundial\BaseMundial\BaseMundial\obj\Debug\BaseMundial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andres\Desktop\Base de Datos\ProyectoMundial\BaseMundial\BaseMundial\obj\Debug\BaseMundial.FormBienvenida.resources
+C:\Users\Andres\Desktop\Base de Datos\ProyectoMundial\BaseMundial\BaseMundial\obj\Debug\BaseMundial.Properties.Resources.resources
+C:\Users\Andres\Desktop\Base de Datos\ProyectoMundial\BaseMundial\BaseMundial\obj\Debug\BaseMundial.csproj.GenerateResource.cache
+C:\Users\Andres\Desktop\Base de Datos\ProyectoMundial\BaseMundial\BaseMundial\obj\Debug\BaseMundial.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\Base de Datos\ProyectoMundial\BaseMundial\BaseMundial\obj\Debug\BaseMundial.exe
+C:\Users\Andres\Desktop\Base de Datos\ProyectoMundial\BaseMundial\BaseMundial\obj\Debug\BaseMundial.pdb
+C:\Users\Andres\Desktop\Base de Datos\ProyectoMundial\BaseMundial\BaseMundial\obj\Debug\BaseMundial.FromLogin.resources
+C:\Users\Andres\Desktop\Base de Datos\ProyectoMundial\BaseMundial\BaseMundial\obj\Debug\BaseMundial.FromMenu.resources
+C:\Users\Andres\Desktop\Base de Datos\ProyectoMundial\BaseMundial\BaseMundial\obj\Debug\BaseMundial.FormSelecciones.resources
+C:\Users\Andres\Desktop\Base de Datos\ProyectoMundial\BaseMundial\BaseMundial\obj\Debug\BaseMundial.FormEstadisPais.resources
+C:\Users\Andres\Desktop\Base de Datos\ProyectoMundial\BaseMundial\BaseMundial\obj\Debug\BaseMundial.FormEstaPartidos.resources
+C:\Users\Andres\Desktop\Base de Datos\ProyectoMundial\BaseMundial\BaseMundial\obj\Debug\BaseMundial.FormDetGol.resources
+C:\Users\Andres\Desktop\Base de Datos\ProyectoMundial\BaseMundial\BaseMundial\obj\Debug\BaseMundial.FormRondas.resources
+C:\Users\EDISSON\Desktop\Nuevo Proyecto\ProyectoMundial\BaseMundial\BaseMundial\obj\Debug\BaseMundial.csproj.AssemblyReference.cache
+C:\Users\EDISSON\Desktop\Nuevo Proyecto\ProyectoMundial\BaseMundial\BaseMundial\obj\Debug\BaseMundial.csproj.SuggestedBindingRedirects.cache
+C:\Users\EDISSON\Desktop\Nuevo Proyecto\ProyectoMundial\BaseMundial\BaseMundial\obj\Debug\BaseMundial.FormEstaPartidos.resources
+C:\Users\EDISSON\Desktop\Nuevo Proyecto\ProyectoMundial\BaseMundial\BaseMundial\obj\Debug\BaseMundial.FormEstadisPais.resources
+C:\Users\EDISSON\Desktop\Nuevo Proyecto\ProyectoMundial\BaseMundial\BaseMundial\obj\Debug\BaseMundial.FormRondas.resources
+C:\Users\EDISSON\Desktop\Nuevo Proyecto\ProyectoMundial\BaseMundial\BaseMundial\obj\Debug\BaseMundial.FormSelecciones.resources
+C:\Users\EDISSON\Desktop\Nuevo Proyecto\ProyectoMundial\BaseMundial\BaseMundial\obj\Debug\BaseMundial.FormDetGol.resources
+C:\Users\EDISSON\Desktop\Nuevo Proyecto\ProyectoMundial\BaseMundial\BaseMundial\obj\Debug\BaseMundial.FormBienvenida.resources
+C:\Users\EDISSON\Desktop\Nuevo Proyecto\ProyectoMundial\BaseMundial\BaseMundial\obj\Debug\BaseMundial.FromLogin.resources
+C:\Users\EDISSON\Desktop\Nuevo Proyecto\ProyectoMundial\BaseMundial\BaseMundial\obj\Debug\BaseMundial.FromMenu.resources
+C:\Users\EDISSON\Desktop\Nuevo Proyecto\ProyectoMundial\BaseMundial\BaseMundial\obj\Debug\BaseMundial.Properties.Resources.resources
+C:\Users\EDISSON\Desktop\Nuevo Proyecto\ProyectoMundial\BaseMundial\BaseMundial\obj\Debug\BaseMundial.csproj.GenerateResource.cache
+C:\Users\EDISSON\Desktop\Nuevo Proyecto\ProyectoMundial\BaseMundial\BaseMundial\obj\Debug\BaseMundial.csproj.CoreCompileInputs.cache
+C:\Users\EDISSON\Desktop\Nuevo Proyecto\ProyectoMundial\BaseMundial\BaseMundial\obj\Debug\BaseMundial.exe
+C:\Users\EDISSON\Desktop\Nuevo Proyecto\ProyectoMundial\BaseMundial\BaseMundial\obj\Debug\BaseMundial.pdb
+C:\Users\EDISSON\Desktop\Nuevo Proyecto\ProyectoMundial\BaseMundial\BaseMundial\bin\Debug\BaseMundial.exe.config
+C:\Users\EDISSON\Desktop\Nuevo Proyecto\ProyectoMundial\BaseMundial\BaseMundial\bin\Debug\BaseMundial.exe
+C:\Users\EDISSON\Desktop\Nuevo Proyecto\ProyectoMundial\BaseMundial\BaseMundial\bin\Debug\BaseMundial.pdb
